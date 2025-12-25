@@ -13,8 +13,8 @@
 - **MERN Stack (Learning):** MongoDB, Express.js, React, Node.js  
 - **Databases:** MySQL, Oracle, Firebase  
 - **Tools:** Git, GitHub, MySQL Workbench, Postman    
-- **Concepts:** OOPs, DBMS, OS, DSA 
-- 
+- **Concepts:** OOPs, DBMS, OS, DSA
+
 ---
 
 ## 📌 Featured Projects
