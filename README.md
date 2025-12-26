@@ -2,15 +2,14 @@
 
 🎓 Computer Science Engineering Student  
 💻 Aspiring Backend / Full-Stack Developer  
-🌱 Currently upskilling in the MERN stack, building upon prior experience in JavaScript, backend APIs, and database-driven applications  
+🌱 Currently upskilling in the Java Full stack, building upon prior experience in JavaScript, backend APIs, and database-driven applications  
 
 ---
 
 ## 🛠️ Technical Skills
 - **Languages:** Java, Python, C, SQL, Kotlin  
 - **Backend:** Core Java, JDBC, REST APIs (Basics), MVC Architecture  
-- **Web Development:** HTML, CSS, JavaScript, Node.js  
-- **MERN Stack (Learning):** MongoDB, Express.js, React, Node.js  
+- **Web Development:** HTML, CSS, JavaScript, Node.js , React.js 
 - **Databases:** MySQL, Oracle, Firebase  
 - **Tools:** Git, GitHub, MySQL Workbench, Postman    
 - **Concepts:** OOPs, DBMS, OS, DSA
